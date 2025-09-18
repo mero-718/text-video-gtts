@@ -28,5 +28,3 @@ A Python-based project that converts text into video with audio narration. This 
 
 ```bash
 python text_to_video.py input.txt output.mp4
-
----
