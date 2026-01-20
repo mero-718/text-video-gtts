@@ -15,7 +15,7 @@ FONT_SIZE = 180
 BACKGROUND_SPEED = 0.8  # Background color change speed (lower value means slower)
 TIMING_ADJUSTMENT = -0.3  # Adjusts the duration of each word in the video
 START_BG_COLOR = "#000000"  # Start color in HEX
-END_BG_COLOR = "#6638f0"  # End color in HEX
+END_BG_COLOR = "#6638f3"  # End color in HEX
 
 
 # Function to convert HEX color to RGB
