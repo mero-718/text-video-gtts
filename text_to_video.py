@@ -14,7 +14,7 @@ FONT_PATH = "DMSerifDisplay-Regular.ttf" # Path to .ttf font file (change this t
 FONT_SIZE = 180
 BACKGROUND_SPEED = 0.8  # Background color change speed (lower value means slower)
 TIMING_ADJUSTMENT = -0.3  # Adjusts the duration of each word in the video
-START_BG_COLOR = "#000000"  # Start color in HEX
+START_BG_COLOR = "#000333"  # Start color in HEX
 END_BG_COLOR = "#6638f3"  # End color in HEX
 
 
